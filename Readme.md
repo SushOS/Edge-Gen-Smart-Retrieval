@@ -23,7 +23,7 @@ This project utilizes ObjectBox, a high-performance NoSQL database solution, ide
 
 1. Clone the repository:
    ```
-   git clone [your-repo-url]
+   git clone https://github.com/SushOS/Edge-Gen-Smart-Retrieval.git
    ```
 
 2. Create a local virtual environment:
